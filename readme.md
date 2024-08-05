@@ -26,6 +26,6 @@ Este repositório contém um projeto de teste de software, incluindo exemplos de
     npm run
 
 4. **Rodas os testes**
-  ```bash
+    ```bash
     Rodar todos: npm test
     Rodar apenas um: npx jest *nome do arquivo de teste*
