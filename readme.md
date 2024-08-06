@@ -2,6 +2,10 @@
 
 Este repositório contém um projeto de teste de software, incluindo exemplos de testes unitários e funcionais. O foco é demonstrar a diferença entre testes unitários e testes funcionais e fornecer exemplos práticos para ambos.
 
+##Pdf do tutorial
+
+-A documentação completa pode ser encontrada no [arquivo PDF](/Eduardo_Marrano_Atividade_1.pdf).
+
 ## Estrutura do Projeto
 
 - **`src/`**: Contém o código-fonte da aplicação.
